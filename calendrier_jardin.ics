@@ -3,51 +3,35 @@ VERSION:2.0
 PRODID:-//Jardin//FR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:evt-20261115-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261115T090000
-DTEND;TZID=America/Toronto:20261115T093000
-SUMMARY:Zone 1 - Verger: Installation des drains perforés et protection hivernale
-DESCRIPTION:Installer des sections de drain perforé fendues autour des troncs des jeunes asiminiers (Chambly #1, PA Golden, Regulus, Susquehanna) pour prévenir les attaques de rongeurs et le décollement d'écorce par le gel. Pailler la zone racinaire.
+UID:evt-20261116-potager-ail@jardin
+DTSTAMP:20261116T021757Z
+DTSTART;TZID=America/Toronto:20261116T050000
+DTEND;TZID=America/Toronto:20261116T053000
+SUMMARY:Zone 3 - Potager : Paillage d'hivernage de l'ail
+DESCRIPTION:Vérifier et installer une couche de 10 à 15 cm de paille sur la planche d'ail d'automne afin de protéger les caïeux contre les cycles de gel-dégel et le gel intense de l'hiver.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261116-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261116T100000
-DTEND;TZID=America/Toronto:20261116T103000
-SUMMARY:Zones 2, 3 et 4 - Potager: Purge et remisage du goutte-à-goutte
-DESCRIPTION:Vidanger entièrement le réseau goutte-à-goutte de toutes les zones du potager. Déconnecter les minuteries, filtres et régulateurs de pression pour les entreposer à l'abri du gel hivernal.
+UID:evt-20261118-walipini-protection@jardin
+DTSTAMP:20261116T021757Z
+DTSTART;TZID=America/Toronto:20261118T050000
+DTEND;TZID=America/Toronto:20261118T053000
+SUMMARY:Zone 5 - Walipini : Préparation hors gel pour commandes exotiques
+DESCRIPTION:Vérifier l'isolation et le maintien hors gel de la serre/walipini. Effectuer le suivi des commandes de bananier, manguier et figuier pour organiser leur réception en milieu tempéré.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261118-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261118T103000
-DTEND;TZID=America/Toronto:20261118T110000
-SUMMARY:Zones 2 et 3 - Potager: Nettoyage et couverture de sol
-DESCRIPTION:Retirer les plants morts détruits par les gels successifs (solanacées et cucurbitacées). Déposer une couverture de feuilles mortes broyées ou de paille sur les planches de culture pour préserver la microbiologie du sol.
+UID:evt-20261121-fleurs-hivernage@jardin
+DTSTAMP:20261116T021757Z
+DTSTART;TZID=America/Toronto:20261121T050000
+DTEND;TZID=America/Toronto:20261121T053000
+SUMMARY:Zone 4 - Fleurs : Maintien des tiges sèches et paillis
+DESCRIPTION:Conserver les tiges sèches des vivaces et fleurs mellifères pour protéger la faune et nourrir les oiseaux durant l'hiver. Vérifier la bonne couverture de paillis au pied des hydrangées Annabelle.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261120-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261120T110000
-DTEND;TZID=America/Toronto:20261120T113000
-SUMMARY:Zone 4 - Potager Zone C: Paillage de protection de l'ail
-DESCRIPTION:Vérifier la plantation d'ail d'automne et étendre une couche protectrice de 10 à 15 cm de paille afin de limiter les effets de soulèvement causés par les cycles de gel-dégel.
-END:VEVENT
-BEGIN:VEVENT
-UID:evt-20261122-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261122T130000
-DTEND;TZID=America/Toronto:20261122T133000
-SUMMARY:Zone 5 - Ornemental: Hivernage des plates-bandes et arbustes
-DESCRIPTION:Nettoyer les tiges mortes des vivaces sensibles tout en conservant les structures florales rigides pour les oiseaux. Attacher délicatement les arbustes à branches fragiles pour éviter les bris dus au poids de la neige.
-END:VEVENT
-BEGIN:VEVENT
-UID:evt-20261126-01@jardin
-DTSTAMP:20261116T005853Z
-DTSTART;TZID=America/Toronto:20261126T100000
-DTEND;TZID=America/Toronto:20261126T103000
-SUMMARY:Zone 1 - Verger: Inspection finale avant le gel permanent
-DESCRIPTION:Inspecter la stabilité des tuteurs et l'assise des manchons perforés des asiminiers. S'assurer que le paillis ne touche pas directement le tronc à l'intérieur du drain pour éliminer l'humidité excessive.
+UID:evt-20261124-framboisiers-entretien@jardin
+DTSTAMP:20261116T021757Z
+DTSTART;TZID=America/Toronto:20261124T050000
+DTEND;TZID=America/Toronto:20261124T053000
+SUMMARY:Zone 2 - Arbustes fruitiers : Nettoyage d'automne des framboisiers
+DESCRIPTION:Couper à ras les tiges desséchées de framboisiers ayant déjà fructifié cette année, maintenir le paillis au sol pour protéger les racines du froid hivernal.
 END:VEVENT
 END:VCALENDAR
