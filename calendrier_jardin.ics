@@ -3,35 +3,35 @@ VERSION:2.0
 PRODID:-//Jardin//FR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:evt-20261116-potager-ail@jardin
-DTSTAMP:20261116T021757Z
-DTSTART;TZID=America/Toronto:20261116T050000
-DTEND;TZID=America/Toronto:20261116T053000
-SUMMARY:Zone 3 - Potager : Paillage d'hivernage de l'ail
-DESCRIPTION:Vérifier et installer une couche de 10 à 15 cm de paille sur la planche d'ail d'automne afin de protéger les caïeux contre les cycles de gel-dégel et le gel intense de l'hiver.
+UID:evt-20261116-01@jardin
+DTSTAMP:20261116T135621Z
+DTSTART;TZID=America/Toronto:20261116T090000
+DTEND;TZID=America/Toronto:20261116T093000
+SUMMARY:Zone 3 Potager - Paillage hivernal de l'ail d'automne
+DESCRIPTION:Vérifier et compléter la couche de paillis (10 à 15 cm de paille propre) sur la planche d'ail d'automne pour protéger les caïeux contre les gels intenses et les cycles de gel-dégel.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261118-walipini-protection@jardin
-DTSTAMP:20261116T021757Z
-DTSTART;TZID=America/Toronto:20261118T050000
-DTEND;TZID=America/Toronto:20261118T053000
-SUMMARY:Zone 5 - Walipini : Préparation hors gel pour commandes exotiques
-DESCRIPTION:Vérifier l'isolation et le maintien hors gel de la serre/walipini. Effectuer le suivi des commandes de bananier, manguier et figuier pour organiser leur réception en milieu tempéré.
+UID:evt-20261116-02@jardin
+DTSTAMP:20261116T135621Z
+DTSTART;TZID=America/Toronto:20261116T103000
+DTEND;TZID=America/Toronto:20261116T110000
+SUMMARY:Zone 5 Serre Walipini - Préparation et suivi des commandes exotiques
+DESCRIPTION:Suivre la réception des commandes en cours (Bananier, Manguier, Figuier) et inspecter les installations de chauffage et d'isolation de la serre/walipini afin de garantir un abri hors gel dès leur arrivée.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261121-fleurs-hivernage@jardin
-DTSTAMP:20261116T021757Z
-DTSTART;TZID=America/Toronto:20261121T050000
-DTEND;TZID=America/Toronto:20261121T053000
-SUMMARY:Zone 4 - Fleurs : Maintien des tiges sèches et paillis
-DESCRIPTION:Conserver les tiges sèches des vivaces et fleurs mellifères pour protéger la faune et nourrir les oiseaux durant l'hiver. Vérifier la bonne couverture de paillis au pied des hydrangées Annabelle.
+UID:evt-20261118-01@jardin
+DTSTAMP:20261116T135621Z
+DTSTART;TZID=America/Toronto:20261118T130000
+DTEND;TZID=America/Toronto:20261118T133000
+SUMMARY:Zone 4 Fleurs - Vérification hivernale des vivaces et hydrangées
+DESCRIPTION:Conserver les tiges florales sèches des vivaces en place pour nourrir et abriter les oiseaux pendant l'hiver. Vérifier la présence d'un bon paillis protecteur au pied des hydrangées Annabelle.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261124-framboisiers-entretien@jardin
-DTSTAMP:20261116T021757Z
-DTSTART;TZID=America/Toronto:20261124T050000
-DTEND;TZID=America/Toronto:20261124T053000
-SUMMARY:Zone 2 - Arbustes fruitiers : Nettoyage d'automne des framboisiers
-DESCRIPTION:Couper à ras les tiges desséchées de framboisiers ayant déjà fructifié cette année, maintenir le paillis au sol pour protéger les racines du froid hivernal.
+UID:evt-20261120-01@jardin
+DTSTAMP:20261116T135621Z
+DTSTART;TZID=America/Toronto:20261120T090000
+DTEND;TZID=America/Toronto:20261120T093000
+SUMMARY:Irrigation générale - Confirmation d'hivernage du goutte-à-goutte
+DESCRIPTION:Confirmer la désactivation complète et la vidange des tuyaux d'irrigation goutte-à-goutte pour prévenir tout éclatement dû au gel hivernal (inactif d'octobre à mai).
 END:VEVENT
 END:VCALENDAR
