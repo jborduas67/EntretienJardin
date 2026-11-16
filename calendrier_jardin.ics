@@ -4,42 +4,58 @@ PRODID:-//Jardin//FR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:evt-20261115-01@jardin
-DTSTAMP:20261115T234545Z
+DTSTAMP:20261116T005618Z
 DTSTART;TZID=America/Toronto:20261115T090000
 DTEND;TZID=America/Toronto:20261115T093000
-SUMMARY:Verger - Asiminiers trilobés : Installation des drains perforés
-DESCRIPTION:Installer les manchons de drain perforé fendus autour des troncs des asiminiers (Chambly #1, PA Golden, Regulus, Susquehanna) pour prévenir les attaques de rongeurs et protéger l'écorce contre les blessures hivernales. Ajouter un paillage protecteur à la base sans toucher directement le tronc.
+SUMMARY:Verger - Asiminiers trilobés : Installation des drains protecteurs
+DESCRIPTION:Installer les drains agricoles perfores autour du tronc des quatre asiminiers pour les proteger des rongeurs et des fentes d'hiver. Ajouter une couche de paillis a la base en degageant le collet.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261117-02@jardin
-DTSTAMP:20261115T234545Z
-DTSTART;TZID=America/Toronto:20261117T100000
-DTEND;TZID=America/Toronto:20261117T103000
-SUMMARY:Potager Zone A et B : Fermeture et hivernage des parcelles
-DESCRIPTION:Retirer les résidus de cultures gelées (courges, concombres, maïs, tomates, poivrons). Purger et ranger le système de goutte-à-goutte hors gel pour la période hivernale. Couvrir le sol d'une couche de compost et de feuilles mortes broyées.
+UID:evt-20261116-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261116T100000
+DTEND;TZID=America/Toronto:20261116T103000
+SUMMARY:Systeme d'irrigation : Purge et hivernage du goutte-a-goutte
+DESCRIPTION:Purger completement le reseau d'arrosage goutte-a-goutte des zones potageres, vidanger les tuyaux pour eviter le gel, fermer et vidanger le robinet d'alimentation exterieur et remiser les regulateurs au sec.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261120-03@jardin
-DTSTAMP:20261115T234545Z
-DTSTART;TZID=America/Toronto:20261120T103000
-DTEND;TZID=America/Toronto:20261120T110000
-SUMMARY:Potager Zone C : Paillage épais pour l'ail
-DESCRIPTION:Vérifier la parcelle d'ail planté pour l'automne et disposer une couche protectrice de paille propre ou de feuilles de 10 à 15 cm pour assurer l'isolation racinaire contre les cycles de gel-dégel en zone 5a.
+UID:evt-20261118-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261118T100000
+DTEND;TZID=America/Toronto:20261118T103000
+SUMMARY:Potager Zone A & B : Nettoyage et amendement de fin de saison
+DESCRIPTION:Retirer les derniers residus de cultures gelees (concombres, courges, mais, plants de tomates et poivrons). Enfouir ou deposer une couverture de compost mur et de feuilles mortes pour proteger la structure du sol.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261123-04@jardin
-DTSTAMP:20261115T234545Z
-DTSTART;TZID=America/Toronto:20261123T130000
-DTEND;TZID=America/Toronto:20261123T133000
-SUMMARY:Haies, arbustes et plates-bandes : Préparation hivernale
-DESCRIPTION:Tailler les vivaces desséchées tout en conservant les inflorescences décoratives pour la faune. Pailler le pied des arbustes plus fragiles et lier délicatement les branches souples susceptibles de casser sous le poids de la neige lourde.
+UID:evt-20261120-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261120T130000
+DTEND;TZID=America/Toronto:20261120T133000
+SUMMARY:Potager Zone C : Paillage protecteur de l'ail
+DESCRIPTION:Appliquer une couche de 10 a 15 cm de paille propre ou de feuilles hachees sur la planche d'ail pour assurer son isolation contre les gels severes sans couvert neigeux.
 END:VEVENT
 BEGIN:VEVENT
-UID:evt-20261126-05@jardin
-DTSTAMP:20261115T234545Z
-DTSTART;TZID=America/Toronto:20261126T110000
-DTEND;TZID=America/Toronto:20261126T113000
-SUMMARY:Verger - Asiminiers trilobés : Inspection finale pré-hivernale
-DESCRIPTION:Inspecter la bonne tenue des drains protecteurs autour de chaque jeune asiminier et vérifier la stabilité des tuteurs face aux vents d'automne tardifs.
+UID:evt-20261122-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261122T100000
+DTEND;TZID=America/Toronto:20261122T103000
+SUMMARY:Haies, arbustes et plates-bandes : Preparation hivernale
+DESCRIPTION:Rabattre les vivaces defleuries qui ne servent pas de nourriture hivernale aux oiseaux, pailler le pied des arbustes les plus jeunes et verifier l'absence d'accumulation d'eau stagnante.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261125-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261125T140000
+DTEND;TZID=America/Toronto:20261125T143000
+SUMMARY:Verger - Asiminiers trilobés : Verification des protections
+DESCRIPTION:Verifier la stabilite mecanique des manchons perforateurs face aux coups de vent et s'assurer que la neige ou la terre n'obstruent pas de maniere deletere la base des asiminiers.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261128-01@jardin
+DTSTAMP:20261116T005618Z
+DTSTART;TZID=America/Toronto:20261128T110000
+DTEND;TZID=America/Toronto:20261128T113000
+SUMMARY:Jardin general : Inspection finale avant les neiges permanentes
+DESCRIPTION:Faire le tour complet des 5 zones pour s'assurer que les outils, treillis et piquets sont ranges et que les paillages restent bien en place avant les precipitations hivernales majeures.
 END:VEVENT
 END:VCALENDAR
