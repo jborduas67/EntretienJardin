@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jardin//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:evt-20261115-01@jardin
+DTSTAMP:20261115T234545Z
+DTSTART;TZID=America/Toronto:20261115T090000
+DTEND;TZID=America/Toronto:20261115T093000
+SUMMARY:Verger - Asiminiers trilobés : Installation des drains perforés
+DESCRIPTION:Installer les manchons de drain perforé fendus autour des troncs des asiminiers (Chambly #1, PA Golden, Regulus, Susquehanna) pour prévenir les attaques de rongeurs et protéger l'écorce contre les blessures hivernales. Ajouter un paillage protecteur à la base sans toucher directement le tronc.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261117-02@jardin
+DTSTAMP:20261115T234545Z
+DTSTART;TZID=America/Toronto:20261117T100000
+DTEND;TZID=America/Toronto:20261117T103000
+SUMMARY:Potager Zone A et B : Fermeture et hivernage des parcelles
+DESCRIPTION:Retirer les résidus de cultures gelées (courges, concombres, maïs, tomates, poivrons). Purger et ranger le système de goutte-à-goutte hors gel pour la période hivernale. Couvrir le sol d'une couche de compost et de feuilles mortes broyées.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261120-03@jardin
+DTSTAMP:20261115T234545Z
+DTSTART;TZID=America/Toronto:20261120T103000
+DTEND;TZID=America/Toronto:20261120T110000
+SUMMARY:Potager Zone C : Paillage épais pour l'ail
+DESCRIPTION:Vérifier la parcelle d'ail planté pour l'automne et disposer une couche protectrice de paille propre ou de feuilles de 10 à 15 cm pour assurer l'isolation racinaire contre les cycles de gel-dégel en zone 5a.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261123-04@jardin
+DTSTAMP:20261115T234545Z
+DTSTART;TZID=America/Toronto:20261123T130000
+DTEND;TZID=America/Toronto:20261123T133000
+SUMMARY:Haies, arbustes et plates-bandes : Préparation hivernale
+DESCRIPTION:Tailler les vivaces desséchées tout en conservant les inflorescences décoratives pour la faune. Pailler le pied des arbustes plus fragiles et lier délicatement les branches souples susceptibles de casser sous le poids de la neige lourde.
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-20261126-05@jardin
+DTSTAMP:20261115T234545Z
+DTSTART;TZID=America/Toronto:20261126T110000
+DTEND;TZID=America/Toronto:20261126T113000
+SUMMARY:Verger - Asiminiers trilobés : Inspection finale pré-hivernale
+DESCRIPTION:Inspecter la bonne tenue des drains protecteurs autour de chaque jeune asiminier et vérifier la stabilité des tuteurs face aux vents d'automne tardifs.
+END:VEVENT
+END:VCALENDAR
